@@ -1,6 +1,6 @@
 # vue-intro
 
-> learning to use Vue.js
+> Coding with the a tutorial in using Vue.js
 
 ## Build Setup
 
